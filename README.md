@@ -2,13 +2,6 @@
 A JavaFX application that determines who is next to finish a certain task out of a team or members of an organization
 # How to use the program
 1) Create a csv file that is formatted as such:
-      MonthName,PersonName
-      MonthName,PersonName
-      MonthName,PersonName
-      $,PersonName
-      
-Note: The MonthName represents the last time the PersonName did a task in your organization or group project.
-Note #2: If there are individuals who have never done a task before then they will not have a month/date of a time they did a task. Thus, instead of MonthName you      will write $ instead.
 2) Download JavaFX from the internet and this code as well
 3) Store the JavaFX folder and my downloaded code in onw folder on your computer
 4) Go to that folder using the command prompt or terminal
