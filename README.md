@@ -1,7 +1,7 @@
 # What is "Who Is Next?"
 A JavaFX application that determines who is next to finish a certain task out of a team or members of an organization
 # How to use the program
-1) Create a csv file that is formatted as found in the csv file above
+1) Create a csv file that is formatted as found in the Format.csv file above
 2) Download JavaFX from the internet and this code as well
 3) Store the JavaFX folder and my downloaded code in onw folder on your computer
 4) Go to that folder using the command prompt or terminal
