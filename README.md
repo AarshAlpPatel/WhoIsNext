@@ -1,4 +1,4 @@
-# Who Is Next?
+# What is "Who Is Next?"
 A JavaFX application that determines who is next to finish a certain task out of a team or members of an organization
 # How to use the program
 1) Create a csv file that is formatted as such:
