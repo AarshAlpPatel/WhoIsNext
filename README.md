@@ -3,7 +3,7 @@ A JavaFX application that determines who is next to finish a certain task out of
 # How to use the program
 1) Create a csv file that is formatted as found in the Format.csv file above
 2) Download JavaFX from the internet and this code as well
-3) Store the JavaFX folder and my downloaded code in onw folder on your computer
+3) Store the JavaFX folder and my downloaded code in one folder on your computer
 4) Go to that folder using the command prompt or terminal
 5) Use this command to compile the code: javac --module-path javafx-sdk-11.0.2/lib --add-modules=javafx.controls Runner.java
 6) Use this command to run the code: java --module-path javafx-sdk-11.0.2/lib --add-modules=javafx.controls Runner
