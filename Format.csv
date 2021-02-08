@@ -9,4 +9,5 @@ $,Matt
 $,John
 
 Note: The MonthName represents the last time the Person did a task in your organization or team.
-Note #2: If there are individuals who have never done a task before then they will not have a month/date of a time they last did a task. Thus, instead of MonthName you will write $ instead.
+Note #2: If there are individuals who have never done a task before then they will not have a month/date of a time they last did a task.
+Thus, instead of MonthName you will write $ instead.
